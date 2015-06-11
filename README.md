@@ -45,3 +45,12 @@ Slic3r:
 Clean-Slic3r-GCODE.py
     
     Run python2.7 Clean-Slic3r-GCODE.py -i <input gcode file> -o <output cleaned gcode file>
+
+Makerware:
+    
+    Print from file the cleaned Slic3r gcode to x3g format.
+    Transfer to SD.
+    Print
+
+Good Luck!
+TJ Mustard
