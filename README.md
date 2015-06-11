@@ -41,3 +41,7 @@ Slic3r:
     Save/Export the fixed STL file.
     Restart Slic3r and open now fixed STL file
     Slice
+
+Clean-Slic3r-GCODE.py
+    
+    Run python2.7 Clean-Slic3r-GCODE.py -i <input gcode file> -o <output cleaned gcode file>
