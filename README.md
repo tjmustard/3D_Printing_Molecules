@@ -35,7 +35,7 @@
     1. Open STL file. (This will fix any errors in the file)
     2. Save/Export the fixed STL file.
     3. Restart Slic3r and open now fixed STL file
-    4. Slice using:
+    4. Slice using: (You will need to import these.)
         • Printer Settings: FINAL_200DUAL-Rs-2_Sup-2_Int
         • Filament 1: 1.72-ABS
         • Filament 2: 1.72-PLA
