@@ -16,13 +16,14 @@
     2. You can also change the elements to emphasize certain atoms due to their radii
 
 ###Blender:
-    1. Import PDB file
+    1. Add the "Atomic Blender PDB/XYZ" plug-in in the preferences panel.
+    2. Import PDB file
         • For overlapping spheres:
             • Balls: ~1.20
         • For Ball and Stick
             • Balls 0.80
             • Stick Radius: 0.20
-    2. Export as obj file
+    3. Export as obj file
 
 ###Cura:
     1. Open OBJ file, rotate as needed, and save as .stl file.
